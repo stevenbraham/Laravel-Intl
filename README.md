@@ -1,3 +1,7 @@
+ I forked this from Propaganistas/Laravel-Intl to use it with Laravel 7 for my own projects. 
+ 
+ Use this at your own risk in a Laravel 7 app!
+
 # Laravel Intl
 
 [![Build Status](https://travis-ci.org/Propaganistas/Laravel-Intl.svg?branch=master)](https://travis-ci.org/Propaganistas/Laravel-Intl)
